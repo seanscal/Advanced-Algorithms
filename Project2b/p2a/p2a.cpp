@@ -68,7 +68,6 @@ int main()
 		//print out solution and create ouput file
 		cout << endl << "Best solution" << endl;
 		k.printSolution();
-		k.printSolution(fileName);
 
 		system("pause");
 		return 0;
